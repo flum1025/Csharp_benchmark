@@ -20,11 +20,12 @@ namespace Csharp_benchmark
 
             string randchar = null;
             int len = 10;
-            
-            for(int i = 0; i < times; i++){
+
+            for (int i = 0; i < times; i++)
+            {
                 randchar = RandomChars(len);
             }
-            
+
             DateTime end = DateTime.Now;
             string endtime = end.ToString("mm:ss.fff");
             Console.WriteLine("end : " + endtime);
@@ -32,8 +33,11 @@ namespace Csharp_benchmark
             TimeSpan margin = end - start;
             //string margin_c = margin.ToString("mm:ss.fff");
             Console.WriteLine("margin : {0}:{1}.{2}", margin.Minutes, margin.Seconds, margin.Milliseconds);
+            //適当なキーを入力させる（終了阻止)
+            Console.WriteLine("何かのキーを押してください");
+            Console.ReadLine();
 
-            
+
         }
 
         public static string RandomChars(int length)
