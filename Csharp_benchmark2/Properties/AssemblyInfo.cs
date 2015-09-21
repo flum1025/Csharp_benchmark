@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("Csharp_benchmark")]
+[assembly: AssemblyTitle("Csharp_benchmark2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Csharp_benchmark")]
+[assembly: AssemblyProduct("Csharp_benchmark2")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 次の GUID は、このプロジェクトが COM に公開される場合の、typelib の ID です
-[assembly: Guid("1e84deb1-135b-41cd-944f-8bcca5d7fb0e")]
+[assembly: Guid("1859d593-57ab-4b13-b310-2ea695e4fd39")]
 
 // アセンブリのバージョン情報は、以下の 4 つの値で構成されています:
 //

@@ -1,6 +1,0 @@
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\bin\Debug\Csharp_benchmark.exe.config
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\obj\Debug\Csharp_benchmark.csprojResolveAssemblyReference.cache
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\bin\Debug\Csharp_benchmark.exe
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\bin\Debug\Csharp_benchmark.pdb
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\obj\Debug\Csharp_benchmark.exe
-C:\install\共有\Dropbox\Dropbox\リンク\ソース\visualstudio\project\Csharp_benchmark\Csharp_benchmark\obj\Debug\Csharp_benchmark.pdb

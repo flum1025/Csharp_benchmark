@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{063B9EF6-76E6-48BC-A433-61C245A6F4EC}</ProjectGuid>
+    <ProjectGuid>{0FB639CF-7241-4022-990B-485D92E375DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Csharp_benchmark</RootNamespace>
-    <AssemblyName>Csharp_benchmark</AssemblyName>
+    <RootNamespace>Csharp_benchmark2</RootNamespace>
+    <AssemblyName>Csharp_benchmark2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

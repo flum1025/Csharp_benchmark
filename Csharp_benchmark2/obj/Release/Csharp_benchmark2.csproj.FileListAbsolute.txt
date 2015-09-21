@@ -1,0 +1,6 @@
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\bin\Release\Csharp_benchmark2.exe.config
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\bin\Release\Csharp_benchmark2.exe
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\bin\Release\Csharp_benchmark2.pdb
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\obj\Release\Csharp_benchmark2.csprojResolveAssemblyReference.cache
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\obj\Release\Csharp_benchmark2.exe
+H:\共有\visualstudio\project\Csharp_benchmark2\Csharp_benchmark2\obj\Release\Csharp_benchmark2.pdb
